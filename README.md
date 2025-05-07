@@ -9,6 +9,8 @@ List of all handly finded BMST IU7 students
 ## 2023
 * https://github.com/pai0id
 ## ????
+* https://github.com/dKosarevsky
+* https://github.com/lichtstrahl
 * https://github.com/honeycarbs
 * https://github.com/Inspirate789
 * https://github.com/MyMiDiII
