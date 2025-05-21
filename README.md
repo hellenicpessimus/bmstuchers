@@ -1,14 +1,5 @@
 # bmstuchers
 List of all handly finded BMST IU7 students
-## 2021
-* https://github.com/runebone
-* https://github.com/Ratwe
-## 2022
-* https://github.com/Lesa-yps
-* https://github.com/OverGoro
-## 2023
-* https://github.com/pai0id
-## ????
 * https://github.com/AndreevAA
 * https://github.com/AskaryanKarine
 * https://github.com/Bryanskaya
@@ -19,7 +10,10 @@ List of all handly finded BMST IU7 students
 * https://github.com/IraAlf
 * https://github.com/Juliasunn
 * https://github.com/KatySupr
+* https://github.com/Lesa-yps
 * https://github.com/MyMiDiII
+* https://github.com/OverGoro
+* https://github.com/Ratwe
 * https://github.com/RullDeef
 * https://github.com/TheSawIsTheLaw
 * https://github.com/Winterpuma
@@ -34,4 +28,6 @@ List of all handly finded BMST IU7 students
 * https://github.com/lichtstrahl
 * https://github.com/mRrvz
 * https://github.com/maxerMU
+* https://github.com/pai0id
+* https://github.com/runebone
 * https://github.com/sonyashka
